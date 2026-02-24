@@ -1,1 +1,2 @@
 # Object-Identification
+Built an object classification model using TensorFlow, leveraging convolutional neural networks (CNNs) to extract and learn features from image data. Implemented data preprocessing and model training pipelines, and fine-tuned hyperparameters to improve accuracy and training efficiency. Achieved faster convergence and improved performance through iterative experimentation and model optimization.
